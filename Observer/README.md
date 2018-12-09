@@ -17,12 +17,11 @@
 # weather Class Diagram
 ![image](https://user-images.githubusercontent.com/21019088/49686452-24445b00-fb38-11e8-85bf-59ac3a7bbd59.png)
 # Execute
-### WeatherStation
+### weather/WeatherStation
 ![image](https://user-images.githubusercontent.com/21019088/49686545-68842b00-fb39-11e8-8efe-2c0be004e80c.png)
-### WeatherStationHeatIndex
+### weather/WeatherStationHeatIndex
 ![image](https://user-images.githubusercontent.com/21019088/49686550-7a65ce00-fb39-11e8-9773-cc3d0395cb1e.png)
 ### P.S
-<ol>
+<ul>
   <li>weatherobservable는 자바 내장 Observable 클래스를 사용한 것이다.</li></br>
-  <li>실행 결과는 weather package의 실행 결과다</li></br>
-</ol>
+</ul>
