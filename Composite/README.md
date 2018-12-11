@@ -20,7 +20,7 @@
 ### Menu
 ![image](https://user-images.githubusercontent.com/21019088/49792237-90f86900-fd75-11e8-9818-393e43929bbb.png)
 
-![image](https://user-images.githubusercontent.com/21019088/49792999-6effe600-fd77-11e8-89d9-ec77fbaf56a9.png)
+![image](https://user-images.githubusercontent.com/21019088/49792999-6effe600-fd77-11e8-89d9-ec77fbaf56a9.png)</br>
 => menuComponent는 자료형이 Menu나 MenuItem일 수 있다. 재귀적으로 자식으로 이동하다 보면 결국엔 MenuItem의 print()사용
 
 ### MenuItem
