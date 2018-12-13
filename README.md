@@ -50,6 +50,8 @@ http://www.nextree.co.kr/p6960/
 
 
 ### References
+https://gmlwjd9405.github.io/2018/07/04/class-diagram.html
+
 https://gmlwjd9405.github.io/tags.html#%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4
 
 http://hyeonstorage.tistory.com/category/%3D%3D%20JAVA%20%3D%3D/Design%20Patterns
