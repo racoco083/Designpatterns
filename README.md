@@ -50,6 +50,8 @@ http://www.nextree.co.kr/p6960/
 
 
 ### References
+https://github.com/brodieroy/Study/wiki/(U)-UML-%ED%81%B4%EB%9E%98%EC%8A%A4%EA%B0%84-%EA%B4%80%EA%B3%84(association,-composition,-aggregation,-dependency)
+
 https://gmlwjd9405.github.io/2018/07/04/class-diagram.html
 
 https://gmlwjd9405.github.io/tags.html#%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4
