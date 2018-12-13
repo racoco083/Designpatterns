@@ -59,3 +59,6 @@ https://gmlwjd9405.github.io/tags.html#%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%8
 http://hyeonstorage.tistory.com/category/%3D%3D%20JAVA%20%3D%3D/Design%20Patterns
 
 http://jusungpark.tistory.com/category/DesignPattern
+
+### P.S
+- 디자인 패턴을 사용하는 것이 부적절한 경우도 종종 있습니다. 그냥 디자인 원칙만 충실히 적용해서 훨씬 간단하게 문제를 해결할 수 있는 경우가 많거든요.
