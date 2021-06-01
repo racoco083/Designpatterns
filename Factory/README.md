@@ -1,4 +1,4 @@
-# Factory Method Pattern
+# Factory Method Pattern (수정 필요)
 ## Definition
 - 사용하는 서브클래스에 따라 생산되는 객체 인스턴스가 결정되는 것.
 pizzaStore의 createPizza가 팩토리 메소드이다. pizzaStore는 클라이언트가 시카고의 피자를 주문하는지 뉴욕의 피자를 주문하는지 모른다. 뉴욕인지 시카고 인지는 pizzaStore의 서브클래스인 NYPizzaStore, ChicagoPiazzaStore에서 결정한다.
