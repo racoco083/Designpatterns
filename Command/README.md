@@ -33,7 +33,7 @@
 ![image](https://user-images.githubusercontent.com/21019088/49713790-a003ec00-fc8d-11e8-8799-0480a73cdd85.png)
 ## Command
 ![image](https://user-images.githubusercontent.com/21019088/49713848-d3df1180-fc8d-11e8-8ed5-da210f654762.png)
-## Receiver
+## Receiver (Light와 LightOnCommand는 연관관계가 될 수 있다. this.right = new Light를 호출하는 함수가 안 쓰일수도 있기 때문이다.)
 ![image](https://user-images.githubusercontent.com/21019088/49713866-e3f6f100-fc8d-11e8-941a-a86d52b2ebc5.png)
 ## ConcreteCommand
 ![image](https://user-images.githubusercontent.com/21019088/49713882-f4a76700-fc8d-11e8-90c4-7c74c4043ee3.png)
